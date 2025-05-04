@@ -13,6 +13,20 @@ git clone https://github.com/juniperfags/github-user-activity.git
 cd github-user-activity
 ```
 
+## Then run
+
+```sh
+# In root project
+node index.js <username>
+```
+
+## Usage
+
+```sh
+# In root project
+node index.js kamranahmedse
+```
+
 ## Example Output
 
 ```- Pushed 1 commits to kamranahmedse/developer-roadmap
